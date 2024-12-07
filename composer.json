@@ -1,6 +1,6 @@
 {
-  "name": "afosto/yaac",
-  "description": "Yet Another ACME client: a decoupled LetsEncrypt client",
+  "name": "micah-ross/yaac",
+  "description": "Yet another ACME client: Now with 20 percent less needed variables ",
   "type": "package",
   "keywords": [
     "afosto",
@@ -15,8 +15,7 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Afosto Team",
-      "homepage": "https://afosto.com"
+      "name": "Afosto Team, Micah Ross"
     }
   ],
   "autoload": {
